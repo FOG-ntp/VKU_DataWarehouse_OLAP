@@ -1,0 +1,6 @@
+Thông tin sinh viên:
+
+Họ và tên:
+Nguyễn Thanh Phong |MSSV: 20IT735
+Công việc: Xây dựng Data Warehouse, SSIS, SSAS, SSRS, Data_mining 
+viết báo cáo, quay video
